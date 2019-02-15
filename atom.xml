@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>我的世界-Minecraft</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2019-02-15T08:47:08.330Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>syh09</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>第一篇博客</title>
+    <link href="http://yoursite.com/2019/02/15/my-first-blog/"/>
+    <id>http://yoursite.com/2019/02/15/my-first-blog/</id>
+    <published>2019-02-15T08:05:01.000Z</published>
+    <updated>2019-02-15T08:47:08.330Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;第一篇博客，正式开通。&lt;/p&gt;
+&lt;p&gt;目前只使用了基础的一些模块，一些其他的功能以后再弄。&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+      <category term="博客" scheme="http://yoursite.com/categories/%E5%8D%9A%E5%AE%A2/"/>
+    
+    
+      <category term="写作" scheme="http://yoursite.com/tags/%E5%86%99%E4%BD%9C/"/>
+    
+  </entry>
+  
+</feed>
